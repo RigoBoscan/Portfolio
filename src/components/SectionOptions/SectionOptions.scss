@@ -1,0 +1,28 @@
+.container-options {
+  max-width: 100%;
+  padding: 25px;
+  background-color: #fcf0e4;
+  .title-options {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: normal;
+  }
+  .buttons-container {
+    width: 100%;
+    max-width: 1060px;
+    margin: auto;
+    margin-top: 35px;
+    div {
+      display: flex;
+      flex-direction: column;
+      background-color: #ffffff;
+      width: 164px;
+      height: 93px;
+      padding: 16px;
+      border-radius: 9px;
+      text-align: left;
+      margin-bottom: 15px;
+      box-shadow: 0px 8px 12px rgba(36, 63, 162, 0.04);
+    }
+  }
+}

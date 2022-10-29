@@ -1,7 +1,7 @@
 <template>
   <v-container class="container-animation">
     <div class="container-information pa-0">
-      <h1 class="mt-10">¡Hola!</h1>
+      <h1>¡Hola!</h1>
       <h1 class="mt-9">
         Mi nombre <br />
         es Victor y soy un <br />
