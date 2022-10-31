@@ -21,7 +21,7 @@
       depressed
       color="#E5EFFF"
       class="btn-contact"
-      :to="{ name: 'about' }"
+
     >
       Contáctame
     </v-btn>

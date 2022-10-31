@@ -9,20 +9,20 @@
   }
   .buttons-container {
     width: 100%;
-    max-width: 1060px;
+    width: 343px;
     margin: auto;
     margin-top: 35px;
-    div {
-      display: flex;
-      flex-direction: column;
-      background-color: #ffffff;
-      width: 164px;
-      height: 93px;
-      padding: 16px;
-      border-radius: 9px;
-      text-align: left;
-      margin-bottom: 15px;
+    .btn-option {
+      letter-spacing: normal;
+      font-family: "Montserrat", sans-serif;
+      text-transform: none;
       box-shadow: 0px 8px 12px rgba(36, 63, 162, 0.04);
+      border-radius: 9px;
+      margin-bottom: 15px;
+      .v-btn__content {
+        display: block;
+        text-align: left;
+      }
     }
   }
 }
