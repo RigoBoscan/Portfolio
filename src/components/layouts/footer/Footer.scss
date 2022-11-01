@@ -1,20 +1,21 @@
-.container-contact{
-    padding: 50px 25px;
-    max-width: 100%;
-    h2{
-        font-size: 20px;
-        font-weight: 700;
+.container-contact {
+  padding: 50px 25px;
+  max-width: 100%;
+  background-color: #ffffff;
+  h2 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  p {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .buttons-container {
+    margin: auto;
+    width: 340px;
+    .button-contact {
+      border-radius: 9px;
+      box-shadow: 0px 8px 12px rgba(36, 63, 162, 0.3);
     }
-    p{
-        font-size: 20px;
-        font-weight: 400;
-    }
-    .buttons-container{
-        margin: auto;
-        width: 340px;
-      .button-contact{
-        border-radius: 9px;
-        box-shadow: 0px 8px 12px rgba(36, 63, 162, 0.3);
-      }
-    }
+  }
 }
