@@ -1,0 +1,14 @@
+.projects-container {
+  max-width: 100%;
+  padding: 25px;
+  .container-projects__info {
+    text-align: center;
+  }
+  .container-date__projects {
+    .image-project {
+      box-shadow: 0px 8px 12px rgba(36, 63, 162, 0.3);
+      border-radius: 22px;
+      width: 100%;
+    }
+  }
+}

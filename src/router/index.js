@@ -20,6 +20,11 @@ const routes = [
     name: "skills",
     component: () => import("../views/Skills.vue"),
   },
+  {
+    path: "/projects",
+    name: "projects",
+    component: () => import("../views/Projects.vue"),
+  },
 ];
 
 const router = new VueRouter({

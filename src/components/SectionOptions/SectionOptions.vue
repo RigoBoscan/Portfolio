@@ -17,7 +17,13 @@
         <img width="24px" src="../../assets/icons/experience-icon.png" alt="" />
         <p class="mb-0 mt-2">Experiencia</p>
       </v-btn>
-      <v-btn         :to="{ name: 'skills' }" height="93px" width="164px" class="btn-option" color="#ffffff">
+      <v-btn
+        :to="{ name: 'skills' }"
+        height="93px"
+        width="164px"
+        class="btn-option"
+        color="#ffffff"
+      >
         <img width="27px" src="../../assets/icons/skills-icon.png" alt="" />
         <p class="mb-0 mt-2">Habilidades</p>
       </v-btn>
@@ -25,7 +31,13 @@
         <img width="27px" src="../../assets/icons/studies-icon.png" alt="" />
         <p class="mb-0 mt-2">Estudios</p>
       </v-btn>
-      <v-btn height="93px" width="164px" class="btn-option" color="#ffffff">
+      <v-btn
+        :to="{ name: 'projects' }"
+        height="93px"
+        width="164px"
+        class="btn-option"
+        color="#ffffff"
+      >
         <img width="29px" src="../../assets/icons/proyects-icon.png" alt="" />
         <p class="mb-0 mt-2">Proyectos</p>
       </v-btn>
