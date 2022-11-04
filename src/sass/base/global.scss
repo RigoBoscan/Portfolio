@@ -28,6 +28,13 @@ p {
 li {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
+  list-style: none;
+  padding: 0;
+  font-weight: 500;
+}
+
+.li-bold{
+  font-weight: 700;
 }
 
 .parrafo-small {
@@ -37,8 +44,20 @@ li {
   font-weight: 400;
 }
 
-.parrafo-normal{
+.parrafo-normal__grey {
+  color: #9898b8;
   font-weight: 400;
   font-size: 18px;
- line-height: 21px;
+  line-height: 20px;
+}
+
+.parrafo-normal__blue {
+  color: #035BFF;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.v-sheet.v-toolbar:not(.v-sheet--outlined){
+  box-shadow: 0px 8px 12px rgba(36, 63, 162, 0.05) !important;
 }

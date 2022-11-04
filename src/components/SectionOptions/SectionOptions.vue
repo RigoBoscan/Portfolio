@@ -27,7 +27,13 @@
         <img width="27px" src="../../assets/icons/skills-icon.png" alt="" />
         <p class="mb-0 mt-2">Habilidades</p>
       </v-btn>
-      <v-btn height="93px" width="164px" class="btn-option" color="#ffffff">
+      <v-btn
+        :to="{ name: 'estudies' }"
+        height="93px"
+        width="164px"
+        class="btn-option"
+        color="#ffffff"
+      >
         <img width="27px" src="../../assets/icons/studies-icon.png" alt="" />
         <p class="mb-0 mt-2">Estudios</p>
       </v-btn>

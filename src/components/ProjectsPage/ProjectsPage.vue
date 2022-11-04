@@ -3,7 +3,7 @@
     <h1 class="mb-7">Proyectos</h1>
     <div class="container-projects__info" no-gutters>
       <div class="container-date__projects">
-        <img class="image-project" src="../../assets/img/notario-img.svg" alt="" />
+        <img class="image-project" src="../../assets/img/notario-img.png" alt="" />
         <p class="mt-5">NotarioExpress</p>
         <p class="parrafo-normal">
           La plataforma digital de trámites <br />
@@ -11,7 +11,7 @@
         </p>
       </div>
       <div class="container-date__projects mt-15">
-        <img class="image-project" src="../../assets/img/nuhome-img.svg" alt="" />
+        <img class="image-project" src="../../assets/img/nuhome-img.png" alt="" />
         <p class="mt-5">NuHome</p>
         <p class="parrafo-normal">
           Te ayudamos a cumplir tu sueño de <br />
@@ -20,7 +20,7 @@
       </div>
       <div class="container-date__projects mt-15">
        <div class="image-zoom">
-        <img class="image-project" src="../../assets/img/alerth-img.svg" alt="" />
+        <img class="image-project" src="../../assets/img/alerth-img.png" alt="" />
        </div>
         <p class="mt-5">Alerth</p>
         <p class="parrafo-normal">

@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar height="80px" flat app color="#F8FBFF" dark>
+  <v-app-bar height="80px" app color="#F8FBFF" dark>
     <div class="d-flex align-center header">
       <h2>PORTFOLIO</h2>
 
